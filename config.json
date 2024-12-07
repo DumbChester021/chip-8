@@ -1,0 +1,20 @@
+{
+    "cpu_frequency": 500,
+    "instructions_per_frame": 8,
+    "display_scale": 10,
+    "foreground_color": [
+        0,
+        255,
+        0
+    ],
+    "background_color": [
+        0,
+        0,
+        0
+    ],
+    "optimize_display_updates": true,
+    "sound_frequency": 440,
+    "sound_volume": 0.5,
+    "input_repeat_delay": 200,
+    "input_repeat_rate": 50
+}
