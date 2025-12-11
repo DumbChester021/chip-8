@@ -4,7 +4,7 @@ A modern CHIP-8 emulator implementation using Python, PyQt6, and Pygame. This em
 
 ## Attribution
 
-This project was developed by [Your Name] with significant assistance from Anthropic's Claude-3 Sonnet AI. The AI helped with code structure, debugging, and documentation while I handled the implementation and design decisions.
+This project was developed by me DumbChester021 with significant assistance from Anthropic's Claude-3 Sonnet AI. The AI helped with code structure, debugging, and documentation while I handled the implementation and design decisions.
 
 ## Current State and Limitations
 
